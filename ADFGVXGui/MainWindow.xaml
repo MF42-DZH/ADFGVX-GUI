@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ADFGVXGui"
         mc:Ignorable="d"
-        Title="ADFGVX Cipher" Width="800" Height="600" ResizeMode="NoResize">
+        Title="ADFGVX Cipher" Width="800" Height="600" ResizeMode="NoResize" Icon="ADFGVXIcon.ico">
     <Grid Background="#FFF0F0F0">
         <TextBlock x:Name="TitleBlock" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="ADFGVX Cipher GUI by 0xFC963F18DC21#2232" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
         <TextBlock HorizontalAlignment="Center" Margin="0,36,0,0" TextWrapping="Wrap" Text="A tool for encoding and decoding using the ADFGVX cipher." VerticalAlignment="Top"/>
