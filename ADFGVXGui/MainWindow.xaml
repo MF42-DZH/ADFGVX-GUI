@@ -1,0 +1,18 @@
+﻿<Window x:Class="ADFGVXGui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADFGVXGui"
+        mc:Ignorable="d"
+        Title="ADFGVX Cipher" Width="800" Height="600" ResizeMode="NoResize">
+    <Grid Background="#FFF0F0F0">
+        <TextBlock x:Name="TitleBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="ADFGVX Cipher GUI by 0xFC963F18DC21#2232" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,36,0,0" TextWrapping="Wrap" Text="A tool for encoding and decoding using the ADFGVX cipher." VerticalAlignment="Top"/>
+        <TextBox x:Name="AlphabetKeywordBox" HorizontalAlignment="Left" Height="23" Margin="25,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" Cursor="IBeam"/>
+        <TextBox x:Name="ShiftKeywordBox" HorizontalAlignment="Right" Height="23" Margin="0,123,25,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" Cursor="IBeam"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Normal" FontSize="16" Text="Alphabet Keyword"/>
+        <GroupBox Header="Keyword Settings" HorizontalAlignment="Left" Height="90" Margin="10,70,0,0" VerticalAlignment="Top" Width="774" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="409,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Normal" FontSize="16" Text="Shift Keyword"/>
+    </Grid>
+</Window>

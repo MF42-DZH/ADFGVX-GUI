@@ -1,0 +1,15 @@
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\bin\Debug\ADFGVXGui.exe.config
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\bin\Debug\ADFGVXGui.exe
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\bin\Debug\ADFGVXGui.pdb
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\App.g.cs
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui_MarkupCompile.cache
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui_MarkupCompile.lref
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\MainWindow.baml
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.g.resources
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.Properties.Resources.resources
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.csproj.GenerateResource.cache
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.exe
+C:\Users\Lenovo W7P\source\repos\ADFGVXGui\ADFGVXGui\obj\Debug\ADFGVXGui.pdb
